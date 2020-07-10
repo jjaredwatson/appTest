@@ -1,5 +1,5 @@
 body {
-  background-image: url('http://data.whicdn.com/images/139305498/original.jpg');
+  background-image: linear-gradient(#E0121B, #EDAE00, #00A3A3);
   z-index: -1;
 }
 
