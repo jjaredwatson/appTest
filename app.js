@@ -126,8 +126,7 @@ $(document).ready(function() {
     }
 // Scratch
     else if (moves === 9) {
-      var scratch = alert('Scratch!');
-      location.reload();
+      var scratch = alert('Scratch!').reload();
       /*('<h2>Scratch</h2>');
       $('#heading').html(scratch);
       $('#heading').addClass("heading");*/
