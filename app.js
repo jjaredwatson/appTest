@@ -126,10 +126,9 @@ $(document).ready(function() {
     }
 // Scratch
     else if (moves === 9) {
-      var scratch = alert('Scratch!').reload();
-      /*('<h2>Scratch</h2>');
+      var scratch = ('<h2>Scratch</h2>');
       $('#heading').html(scratch);
-      $('#heading').addClass("heading");*/
+      $('#heading').addClass("heading");
     }
   }
 
